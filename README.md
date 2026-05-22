@@ -13,6 +13,7 @@
 | Day 3 | Agent Harness | `day3.AgentHarnessDemo` | 状态机，Context 管理，Tool 沙箱 |
 | Day 4 | RAG 与记忆 | `day4.RAGAgentDemo` | 分层记忆，JIT 检索，Context 注入 |
 | Day 5 | 多 Agent 协作 | `day5.MultiAgentDemo` | Orchestrator-Workers，路由分发，结果聚合 |
+| Day 6 | 自动化评测 | `day6.AgentEvaluationDemo` | Benchmark 设计，评分策略，回归测试 |
 
 ## 快速开始
 
